@@ -3,6 +3,8 @@ target/
 .vscode/
 *.iml
 *.log
+combinado.txt
+*.bash
 .env
 .env.*
 *.zip
